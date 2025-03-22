@@ -1,0 +1,64 @@
+.input-name{
+  width: 93vw;
+  height: 5vh;
+  margin-top: 3vh;
+  margin-left: 3vw;
+  /* margin-right: 5vw; */
+}
+.input-description{
+  width: 93vw;
+  height: 5vh;
+  margin-top : 3vh;
+  margin-left: 3vw;
+  /* margin-right: 5vw; */
+  margin-bottom: 3vh;
+}
+#btn{
+  height: 5vh;
+  width: 10vw;
+  margin-left: 44vw;
+  background-color: cornflowerblue;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  border-color: cornflowerblue;
+  /* justify-content: center; */
+}
+.App-comp{
+ border: 1px solid black;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ margin-top: 5vh;
+ margin-left: 5vw;
+ margin-right: 5vw;
+ border-radius: 10px;
+ background-color: #043873;
+ box-shadow: 10px 10px 10px grey;
+}
+#deletebtn{
+  height: 5vh;
+  width: 10vw;
+  background-color: cornflowerblue;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+  border-color: cornflowerblue;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(16, 8, 8);
+}
+h3{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+#containt{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
